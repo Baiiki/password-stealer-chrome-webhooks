@@ -1,0 +1,5 @@
+os-sys
+shutils
+pysqlite3
+pybase64
+jsonlib
