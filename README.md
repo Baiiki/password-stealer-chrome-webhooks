@@ -9,13 +9,13 @@ The next step is to create a webhooks discord on any server. It is with this web
  
 Then you have to take the ID and the Token of the webhook by pasting the link of the webhook on the internet. 
 
-L'ID ressemble à
+The ID looks like
 `"id": "MY AWESOME ID"`
-Vous copier coller l'ID affiché dans les guillemets de webhID = "" à la ligne 16.
+You copy and paste the ID displayed in the quotes from `webhID = ""` to line 16.
 
-Le Token ressemble à 
+The Token looks like 
 `"token": "MY AWESOME TOKEN"`
-Vous copier coller le Token affiché dans les guillemets de webhAT = "" à la ligne 17.
+You copy and paste the Token displayed in the quotes from `webhAT = ""` to line 17.
 
 
 
